@@ -1,5 +1,8 @@
 Field rules of H.E.I.S.
 ===
+
+
+[![hackmd-github-sync-badge](https://hackmd.io/NVUn7WAxSIC-swUjXVYIuw/badge)](https://hackmd.io/NVUn7WAxSIC-swUjXVYIuw)
 ## System Config (FUNC_ID = 'SYS017')
 - 設定該虛擬機的測試信件收信Email地址
 - 設定虛擬機所在的伺服器IP位置或域名
