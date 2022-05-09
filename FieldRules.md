@@ -8,23 +8,22 @@ Field rules of H.E.I.S.
 - 設定虛擬機所在的伺服器IP位置或域名
 
 ```
-⚠️⚠️⚠️
+:warning:
 Server IP Address or Domain(原為Server IP)
 和Server Domain欄位重複，是否保留Server Domain欄位？
 ```
 
 ![](https://i.imgur.com/znvTmT8.png)
 
-:::spoiler Test Email Address 測試信收信信箱
+### Test Email Address 測試信收信信箱
 | Table | Column | Datatype |
 | -------- | -------- | -------- |
 | SYS_CODE_INFO | VARCHAR06 | VARCHAR(100) |
 
 #### 檢查規則
 - 必填欄位（不可為null、不可為空字串）
-:::
 
-:::spoiler Server IP Address or Domain 主程式所在伺服器IP位置或域名
+### Server IP Address or Domain 主程式所在伺服器IP位置或域名
 | Table | Column | Datatype |
 | -------- | -------- | -------- |3
 | SYS_CODE_INFO | VARCHAR01 | VARCHAR(300) |
@@ -32,7 +31,6 @@ Server IP Address or Domain(原為Server IP)
 #### 檢查規則
 - 必填欄位（不可為null、不可為空字串）
 - 長度為300以下
-:::
 
 :::spoiler Server Domain 服務主機域名
 | Table | Column | Datatype |
