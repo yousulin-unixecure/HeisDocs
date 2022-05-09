@@ -6,10 +6,13 @@ Field rules of H.E.I.S.
 ## System Config (FUNC_ID = 'SYS017')
 - 設定該虛擬機的測試信件收信Email地址
 - 設定虛擬機所在的伺服器IP位置或域名
-:::danger
+
+```
+⚠️⚠️⚠️
 Server IP Address or Domain(原為Server IP)
 和Server Domain欄位重複，是否保留Server Domain欄位？
-:::
+```
+
 ![](https://i.imgur.com/znvTmT8.png)
 
 :::spoiler Test Email Address 測試信收信信箱
